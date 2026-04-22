@@ -7,7 +7,8 @@
 ---
 
 🌐 My Portfolio  
-👉 https://github.com/annup04/Portfolio/
+👉 https://annup04.github.io/portfolio/
+
 
 ---
 
