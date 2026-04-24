@@ -1,5 +1,6 @@
 Hey there! 👋 I'm Annu Priya
-💻 MERN Stack Developer  
+💻 MERN Stack Developer 
+
 🚀 Passionate about building scalable web apps  
 
 ---
@@ -45,10 +46,13 @@ Core Concepts
 
 ---
 📫 Get in Touch
-- Email: annuchy8265@gmail.com  
+- Email: annuchy8265@gmail.com
+   
 - LinkedIn: https://linkedin.com/in/annu-priya-819279253
+  
 - LeetCode: https://leetcode.com/u/annu04/
-- Instagram: https://www.instagram.com/girlwithgoals_6
+  
+-Instagram: https://www.instagram.com/girlwithgoals_6
 
 ---
-⭐ Thanks for visiting my prof
+⭐ Thanks for visiting my profile ! I am open to internship opportunities ⭐
