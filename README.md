@@ -7,7 +7,11 @@ Hey there! 👋 I'm Annu Priya
 🌐 My Portfolio  
 👉 https://annup04.github.io/Portfolio/
 
+---
+
+
 🌟 About Me 🌟
+
 Hiii, I'm Annu Priya 👋
 I am currently pursuing MCA from GL Bajaj Institute of Technology & Management. I have completed my BCA from GNIOT.
 I am a MERN Stack Developer with hands-on experience in building full-stack web applications using React, Node.js, Express, and MongoDB.
@@ -23,14 +27,19 @@ I am currently looking for an internship opportunity where I can enhance my skil
 🛠️ Skills  
 Languages
    -Java,JavaScript,SQL
+   
 Frontend
    -HTML,CSS3,React.js
+   
 Backend
     -Node.js,Express.js
+    
 Database
      -MongoDB,MYSQL
+     
 Tools & Technologies
     -Git,GitHub,VS Code
+    
 Core Concepts
     -Data Structures & Algorithms, OOPs, Operating Systems, Computer Networks
 
