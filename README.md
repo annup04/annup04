@@ -22,7 +22,7 @@ I am currently looking for an internship opportunity where I can enhance my skil
 
 
 
----
+-------
 
 🛠️ Skills  
 Languages
