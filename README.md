@@ -10,7 +10,6 @@ Hey there! 👋 I'm Annu Priya
 
 ---
 
-
 🌟 About Me 🌟
 
 Hiii, I'm Annu Priya 👋
