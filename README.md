@@ -3,12 +3,12 @@ Hey there! 👋 I'm Annu Priya
 
 🚀 Passionate about building scalable web apps  
 
-------
+-------
 
 🌐 My Portfolio  
 👉 https://annup04.github.io/Portfolio/
 
-------
+-------
 
 🌟 About Me 🌟
 
