@@ -8,7 +8,7 @@ Hey there! 👋 I'm Annu Priya
 🌐 My Portfolio  
 👉 https://annup04.github.io/Portfolio/
 
--------
+--------
 
 🌟 About Me 🌟
 
