@@ -26,7 +26,7 @@ I am currently looking for an internship opportunity where I can enhance my skil
 
 🛠️ Skills  
 Languages
-   -Java,JavaScript,SQL
+ -Java,JavaScript,SQL
    
 Frontend
    -HTML,CSS3,React.js
