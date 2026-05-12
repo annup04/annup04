@@ -54,5 +54,5 @@ Core Concepts
   
 -Instagram: https://www.instagram.com/girlwithgoals_6
 
----
+-----------------
 ⭐ Thanks for visiting my profile ! I am open to internship opportunities ⭐
