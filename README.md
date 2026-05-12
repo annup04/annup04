@@ -17,9 +17,7 @@ I am currently pursuing MCA from GL Bajaj Institute of Technology & Management. 
 I am a MERN Stack Developer with hands-on experience in building full-stack web applications using React, Node.js, Express, and MongoDB.
 I have worked on projects like a URL Shortener and currently working on a CV Doctor project focused on resume analysis
 I also have a strong foundation in Data Structures and problem-solving, and I regularly practice coding on platforms like LeetCode.
-I am a quick learner and very consistent, and
-I am currently looking for an internship opportunity where I can enhance my skills and contribute to real-world projects. Thank you.
-
+I am a quick learner and very consistent and I am currently looking for an internship opportunity where I can enhance my skills and contribute to real-world projects. Thank you.
 
 
 -------
